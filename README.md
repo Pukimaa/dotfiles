@@ -19,6 +19,8 @@
 ### `zsh`
 - I haven't tested this without omz yet, however it might work. Otherwise please [open an issue](https://github.com/Pukimaa/dotfiles/issues/new/choose) and install [Oh My Zsh](https://ohmyz.sh/#install).
 - [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+### `kitty`
+- [Maple Mono NF](https://github.com/subframe7536/maple-font/releases) (v7)
 
 ## Screenshots
 ![kitty](https://github.com/user-attachments/assets/178fd65a-8136-4982-89c9-4118553b8fab)
