@@ -1,5 +1,5 @@
 # Init Antidote
-ANTIDOTE_PATH="/home/linuxbrew/.linuxbrew/opt/antidote/share/antidote/antidote.zsh"
+ANTIDOTE_PATH="/usr/share/zsh-antidote/antidote.zsh"
 
 if [[ -r "${ANTIDOTE_PATH}" ]];then
   source "${ANTIDOTE_PATH}"

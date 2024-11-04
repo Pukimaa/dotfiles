@@ -17,8 +17,10 @@
 ### `nvim`
 - [lolcrab](https://github.com/mazznoer/lolcrab)
 ### `zsh`
-- I haven't tested this without omz yet, however it might work. Otherwise please [open an issue](https://github.com/Pukimaa/dotfiles/issues/new/choose) and install [Oh My Zsh](https://ohmyz.sh/#install).
 - [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+- [Oh My Zsh](https://ohmyz.sh/#install)
+- [Antidote](https://github.com/mattmc3/antidote?tab=readme-ov-file#installation)
+    - In the `.zshrc` file the path of antidote is set to the default install path used by the `yay` package manager. If you use something else, remember to update the path at the very top as well.
 ### `kitty`
 - [Maple Mono NF](https://github.com/subframe7536/maple-font/releases) (v7)
 
