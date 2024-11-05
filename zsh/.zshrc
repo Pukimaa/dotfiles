@@ -5,7 +5,7 @@ if [[ -r "${ANTIDOTE_PATH}" ]];then
   source "${ANTIDOTE_PATH}"
   antidote load
 else
-  echo "You don't have antidote installed via homebrew. Please change the path to antidote in your .zshrc"
+  echo "You don't have antidote installed via yay. Please change the path to antidote in your .zshrc"
 fi
 
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
@@ -135,7 +135,9 @@ export PATH="$PATH:/home/jaron/.local/bin"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH=$BUN_INSTALL/bin:$PATH
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 # spicetify
 export PATH=$PATH:/home/jaron/.spicetify
+
+# bun completions
+[ -s "/home/jaron/.bun/_bun" ] && source "/home/jaron/.bun/_bun"
