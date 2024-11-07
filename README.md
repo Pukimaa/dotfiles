@@ -12,6 +12,7 @@
 | `kitty` - [kitty](https://sw.kovidgoyal.net/kitty/)                   | `stow kitty`     |
 | `nvim` - [neovim](https://neovim.io/)                                 | `stow nvim`      |
 | `zsh` - [Oh My Zsh](https://ohmyz.sh/)                                | `stow zsh`       |
+| `rofi` - [rofi](https://github.com/lbonn/rofi)                        | `stow rofi`      |
 
 ## Dependencies
 ### `nvim`
