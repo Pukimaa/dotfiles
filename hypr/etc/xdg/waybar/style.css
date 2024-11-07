@@ -15,7 +15,7 @@
 #workspaces {
   border-radius: 1rem;
   margin: 5px;
-  background-color: @surface0;
+  background-color: @base;
   margin-left: 1rem;
 }
 
@@ -45,7 +45,7 @@
 #pulseaudio,
 #custom-lock,
 #custom-power {
-  background-color: @surface0;
+  background-color: @base;
   padding: 0.5rem 1rem;
   margin: 5px 0;
 }
