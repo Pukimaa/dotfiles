@@ -13,6 +13,7 @@
 | `nvim` - [neovim](https://neovim.io/)                                 | `stow nvim`      |
 | `zsh` - [Oh My Zsh](https://ohmyz.sh/)                                | `stow zsh`       |
 | `rofi` - [rofi](https://github.com/lbonn/rofi)                        | `stow rofi`      |
+| `dunst` - [Dunst](https://dunst-project.org/)                         | `stow dunst`     |
 
 ## Dependencies
 ### `nvim`

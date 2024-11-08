@@ -1,0 +1,21 @@
+[global]
+frame_color = "#7dc4e4"
+separator_color = frame
+font = "Geist Nerd Font 12, Geist, sans-serif"
+icon_theme = "Papirus-Dark, Adwaita"
+enable_recursive_icon_lookup = true
+corner_radius = 8
+gap_size = 8
+
+[urgency_low]
+background = "#24273a"
+foreground = "#cad3f5"
+
+[urgency_normal]
+background = "#24273a"
+foreground = "#cad3f5"
+
+[urgency_critical]
+background = "#24273a"
+foreground = "#cad3f5"
+frame_color = "#f5a97f"
