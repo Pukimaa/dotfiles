@@ -141,3 +141,4 @@ export PATH=$PATH:/home/jaron/.spicetify
 
 # bun completions
 [ -s "/home/jaron/.bun/_bun" ] && source "/home/jaron/.bun/_bun"
+
